@@ -1,2 +1,2 @@
 This is a sample project for CI demo
-: july 11 :
+: july 4 :
